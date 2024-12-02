@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'geografia',
+    'qual é a ilha mais famosa pelas flores vermelhas?',
+    'a ilha das flores vermelhas, no japão'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual o maior cristal ja encontrado?',
+    'o cristal de naica, no México, com 36 toneladas'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Geografia',
+    'Onde fica a cidade subterrânea mais profunda do mundo?',
+    'Em Derinkuyu, Turquia, com 18 andares subterrâneos'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'cultural',
+    'qual é o festival mais luminoso do mundo?',
+    'O festival da Luz de Diwali, na Índia'
 )
